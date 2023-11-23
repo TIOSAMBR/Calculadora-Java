@@ -39,3 +39,7 @@ Interatividade com a Interface Gráfica:
 
 Os métodos são vinculados aos botões por meio do atributo onAction no arquivo FXML, proporcionando uma experiência interativa e responsiva.
 Esta descrição refinada destaca a organização cuidadosa do código, enfatizando a clareza de cada componente e método, bem como a ênfase na usabilidade e na experiência do usuário. O código está preparado para evoluções futuras e mantém uma estrutura coesa para modificações subsequentes.
+
+# Imaganem da Calculadora : 
+![Captura de tela 2023-11-23 150122](https://github.com/TIOSAMBR/Calculadora-Java/assets/102129312/3f952ff3-39e2-43d4-ae6b-38ee95a84311)
+
