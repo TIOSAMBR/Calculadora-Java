@@ -12,7 +12,7 @@ public class PrimaryController {
 
     private StringBuilder expressao = new StringBuilder("0");
     
-     @FXML
+    @FXML
     public void initialize() {
         expressao = new StringBuilder("0");
         atualizarTela();
