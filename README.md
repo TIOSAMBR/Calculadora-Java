@@ -47,6 +47,7 @@ Os métodos são vinculados aos botões por meio do atributo onAction no arquivo
 
 ## Imagem da Calculadora: 
 
-![Calculadora](https://github.com/TIOSAMBR/Calculadora-Java/assets/102129312/a4201a80-6c27-4076-bebc-9bc101026a69)
+[![Calculadora](https://github.com/TIOSAMBR/Calculadora-Java/assets/102129312/a4201a80-6c27-4076-bebc-9bc101026a69)
+](https://github.com/TIOSAMBR/Calculadora-Java/blob/main/Calculadora.png?raw=true)
 
 Esta descrição refinada destaca a organização cuidadosa do código, enfatizando a clareza de cada componente e método, bem como a ênfase na usabilidade e na experiência do usuário. O código está preparado para evoluções futuras e mantém uma estrutura coesa para modificações subsequentes.
